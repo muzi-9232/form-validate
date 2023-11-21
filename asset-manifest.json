@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/form-validate/static/css/main.d2ad0f1f.css",
+    "main.js": "/github.io/form-validate/static/js/main.5dd4430e.js",
+    "static/js/787.ecaac09b.chunk.js": "/github.io/form-validate/static/js/787.ecaac09b.chunk.js",
+    "index.html": "/github.io/form-validate/index.html",
+    "main.d2ad0f1f.css.map": "/github.io/form-validate/static/css/main.d2ad0f1f.css.map",
+    "main.5dd4430e.js.map": "/github.io/form-validate/static/js/main.5dd4430e.js.map",
+    "787.ecaac09b.chunk.js.map": "/github.io/form-validate/static/js/787.ecaac09b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2ad0f1f.css",
+    "static/js/main.5dd4430e.js"
+  ]
+}
